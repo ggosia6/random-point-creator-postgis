@@ -1,1 +1,1 @@
-"# random-point-creator-postgis-plugin" 
+This plugin creates random points on the map
